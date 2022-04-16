@@ -12,6 +12,12 @@ def get_test2():
     print("get_test")
     print("get_test")
     print("get_test")
+    print("get_test")
+    print("get_test")
+    print("get_test")
+    print("get_test")
+    print("get_test")
+    print("get_test")
 
 
 if __name__ == '__main__':
