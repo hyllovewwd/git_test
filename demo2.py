@@ -13,3 +13,6 @@ if __name__ == '__main__':
     get_test()
     get_test()
     get_test2()
+    get_test()
+    get_test()
+    get_test2()
