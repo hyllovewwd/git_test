@@ -1,5 +1,7 @@
 def get_test():
     print("test")
+    print("test")
+    print("test")
     pass
 
 
