@@ -3,5 +3,10 @@ def get_test():
     pass
 
 
+def get_test2():
+    print("get_test")
+
+
 if __name__ == '__main__':
     get_test()
+    get_test2()
