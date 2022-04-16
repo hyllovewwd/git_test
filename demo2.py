@@ -3,6 +3,9 @@ def get_test():
     print("test")
     print("test")
     pass
+    print("test")
+    print("test")
+    print("test")
 
 
 def get_test2():
